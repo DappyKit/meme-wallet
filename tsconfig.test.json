@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "./types/**/*.ts",
+    "./src/**/*.ts",
+    "./test/**/*.ts"
+  ],
+  "compilerOptions": {
+    "paths": {
+      "steganography.js": ["node_modules/steganography.js/build/steganography.js"]
+    },
+    "noEmit": true,
+    "lib": [
+      "dom"
+    ],
+    "typeRoots": [
+      "node_modules/@types",
+      "./types"
+    ]
+  }
+}

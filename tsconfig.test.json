@@ -6,9 +6,6 @@
     "./test/**/*.ts"
   ],
   "compilerOptions": {
-    "paths": {
-      "steganography.js": ["node_modules/steganography.js/build/steganography.js"]
-    },
     "noEmit": true,
     "lib": [
       "dom"

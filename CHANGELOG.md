@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/DappyKit/meme-wallet/compare/v1.1.0...v1.2.0) (2023-08-07)
+
+
+### Features
+
+* new fixed version ([c5b88f7](https://github.com/DappyKit/meme-wallet/commit/c5b88f7c7aa22c8067fe0f9994ef58518e5fd4b8))
+
 ## [1.1.0](https://github.com/DappyKit/meme-wallet/compare/v1.0.0...v1.1.0) (2023-08-05)
 
 

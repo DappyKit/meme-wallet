@@ -32,7 +32,7 @@ import MemeWallet from '@dappykit/meme-wallet'
 
 ```javascript
 import { Wallet } from 'ethers'
-import { embedWallet, extractWallet } from '@dappykit/meme-wallet'
+import { MemeWallet } from '@dappykit/meme-wallet'
 
 const password = 'My Password'
 const imageData = new Uint8Array([]) // Image data in form of Uint8Array
@@ -43,7 +43,7 @@ const imageWithWallet = MemeWallet.embedWallet(imageData, wallet, password);
 ### Retrieving a Wallet from an Image
 
 ```javascript
-const wallet = extractWallet(imageWithWallet, password);
+const wallet = MemeWallet.extractWallet(imageWithWallet, password);
 ```
 
 ## Disclaimer

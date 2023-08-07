@@ -25,7 +25,7 @@ npm i @dappykit/meme-wallet
 ### Importing the Library
 
 ```javascript
-import MemeWallet from '@dappykit/meme-wallet'
+import { MemeWallet } from '@dappykit/meme-wallet'
 ```
 
 ### Creating a Wallet Inside an Image

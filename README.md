@@ -12,6 +12,12 @@ Steganography is a technique used to hide information within other media without
 
 In the Meme Wallet library, steganography is applied to embed a wallet within an image. The wallet data is carefully concealed within the pixels of the image, making it virtually undetectable to the naked eye.
 
+### Try It Online 🚀
+Want to test the library without installing anything? Click on the video below for step-by-step instructions and head over to [npm.runkit.com](https://npm.runkit.com) and experiment with our package. It's simple, fast, and you'll be up and running in no time!
+
+[![Watch the video](assets/preview.png)](assets/meme-wallet-using-fast.mp4)
+
+
 ## How to Install
 
 Simply run the following command:

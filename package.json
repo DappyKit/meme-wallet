@@ -1,6 +1,6 @@
 {
   "name": "@dappykit/meme-wallet",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Embedding Ethereum wallets into images using steganography",
   "main": "dist/index.min.js",
   "types": "dist/src/index.d.ts",
